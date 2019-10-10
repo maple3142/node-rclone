@@ -1,0 +1,9 @@
+{
+	"name": "node-rclone",
+	"version": "0.1.0",
+	"main": "src/rclone.js",
+	"license": "MIT",
+	"dependencies": {
+		"execa": "^2.1.0"
+	}
+}
