@@ -4,6 +4,6 @@
 	"main": "src/rclone.js",
 	"license": "MIT",
 	"dependencies": {
-		"execa": "^2.1.0"
+		"execa": "^3.3.0"
 	}
 }
